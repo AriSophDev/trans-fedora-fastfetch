@@ -1,7 +1,7 @@
 ## Trans - A Simplified Fastfetch Configuration for Trans Users (Fedora Edition)
 
 This repository provides an easy way to configure and use Fastfetch on **Fedora Linux**, with custom logos featuring the transgender flag 🏳️‍⚧️.  
-It is aimed at trans users who want a quick and beautiful setup without complications.
+It is aimed at trans users who want a quick setup without complications.
 
 ### Preview
 
