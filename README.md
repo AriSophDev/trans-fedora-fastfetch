@@ -5,7 +5,7 @@ It is aimed at trans users who want a quick and beautiful setup without complica
 
 ### Preview
 
-![Fastfetch Preview](/assets/customized_preview.png)
+![Fastfetch Preview](/customized_preview.png)
 
 
 ### Installation (Fedora)
