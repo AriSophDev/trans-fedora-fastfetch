@@ -24,3 +24,6 @@ Configuration
 
 Usage
 Once the configuration is set up, just type fastfetch in the terminal to enjoy the personalized system information display.
+
+
+The fedora logo made by me 
