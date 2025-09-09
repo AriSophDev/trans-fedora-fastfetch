@@ -18,12 +18,9 @@ sudo dnf install fastfetch
 
 ###
 Configuration
-
-    Upon installing Fastfetch, no additional setup is needed.
-
-    Simply create a folder named fastfetch in ~/.config/.
-
-    Inside the ```fastfetch``` folder, place config.jsonc and the Logo folder.
+1. Upon installing Fastfetch, no additional setup is needed.
+2. Simply create a folder named `fastfetch` in `~/.config/`.
+3. Inside the `fastfetch` folder
 
 Usage
 Once the configuration is set up, just type fastfetch in the terminal to enjoy the personalized system information display.
